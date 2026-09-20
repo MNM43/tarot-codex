@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3A3357"/>
+      <stop offset="1" stop-color="#241F38"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <!-- 八芒星（星辰牌意象） -->
+  <g transform="translate(256 224)" fill="#E9C46A">
+    <path d="M0,-126 L27,-27 L126,0 L27,27 L0,126 L-27,27 L-126,0 L-27,-27 Z"/>
+  </g>
+  <!-- 月牙 -->
+  <path d="M256 366 a72 72 0 1 0 41 18 a54 54 0 1 1 -41 -18 Z" fill="#E9C46A" opacity="0.92"/>
+  <!-- 星点 -->
+  <circle cx="150" cy="150" r="6" fill="#F3EEE3"/>
+  <circle cx="372" cy="168" r="5" fill="#F3EEE3"/>
+  <circle cx="352" cy="120" r="4" fill="#F3EEE3"/>
+</svg>

@@ -1,0 +1,20 @@
+{
+  "name": "Tarot Codex · 塔罗牌义库",
+  "short_name": "Tarot Codex",
+  "description": "78 张韦特牌义、我的解读与牌阵记录，支持云端同步与多设备备份。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui", "browser"],
+  "background_color": "#F3EEE3",
+  "theme_color": "#F3EEE3",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icons/tarot-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
